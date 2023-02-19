@@ -10,11 +10,11 @@
 
 Способ установки Redis зависит от вашей операционной системы и от того, хотите ли вы установить его в комплекте с Redis Stack и Redis UI. Смотрите руководство ниже, которое лучше всего соответствует вашим потребностям:
 
-* [Установка Redis из исходного кода](getting-started/installation/install-redis-from-source)
-* [Установка Redis в Linux](getting-started/installation/install-redis-on-linux)
-* [Установка Redis в macOS](getting-started/installation/install-redis-on-mac-os)
-* [Установка Redis в Windows](getting-started/installation/install-redis-on-windows)
-* [Установка Redis вместе с Redis Stack и RedisInsight](stack/get-started/install)
+* [Установка Redis из исходного кода](installation/install-redis-from-source.md)
+* [Установка Redis в Linux](installation/install-redis-on-linux.md)
+* [Установка Redis в macOS](installation/install-redis-on-mac-os.md)
+* [Установка Redis в Windows](installation/install-redis-on-windows.md)
+* [Установка Redis вместе с Redis Stack и RedisInsight](../stack/get-started/install)
 
 После того, как вы запустите Redis и сможете подключиться с помощью `redis-cli`, вы можете продолжить выполнение следующих шагов.
 
