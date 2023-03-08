@@ -4,7 +4,7 @@
 
 ---
 
-С 2015 по 2020 год работа Сальваторе Санфилиппо(Salvatore Sanfilippo) над Redis спонсировалась [Redis Ltd.](https://redis.com) С июня 2020 года Redis Ltd. спонсировала [управление Redis](/topics/governance). Redis Ltd. также спонсирует хостинг и обслуживание [redis.io](https://redis.io). 
+С 2015 по 2020 год работа Сальваторе Санфилиппо(Salvatore Sanfilippo) над Redis спонсировалась [Redis Ltd.](https://redis.com) С июня 2020 года Redis Ltd. спонсировала [управление Redis](governance.md). Redis Ltd. также спонсирует хостинг и обслуживание [redis.io](https://redis.io). 
 
 Прошлое спонсорство:
 
